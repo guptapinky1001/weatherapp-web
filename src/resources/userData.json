@@ -1,0 +1,92 @@
+[
+    {
+        "username": "Pinky",
+        "latitude": 40.7128,
+        "longitude": -74.0060,
+        "createdBy": "pgupta",
+        "createdAt": "2024-04-17T12:00:00Z",
+        "updatedBy": "pgupta",
+        "updatedAt": "2024-04-17T12:00:00Z"
+    },
+    {
+        "username": "Pankaj",
+        "latitude": 34.0522,
+        "longitude": -118.2437,
+        "createdBy": "pgupta",
+        "createdAt": "2024-04-17T12:00:00Z",
+        "updatedBy": "pgupta",
+        "updatedAt": "2024-04-17T12:00:00Z"
+    },
+    {
+        "username": "Mira",
+        "latitude": 51.5074,
+        "longitude": -0.1278,
+        "createdBy": "pgupta",
+        "createdAt": "2024-04-17T12:00:00Z",
+        "updatedBy": "pgupta",
+        "updatedAt": "2024-04-17T12:00:00Z"
+    },
+    {
+        "username": "Jyoti",
+        "latitude": 48.8566,
+        "longitude": 2.3522,
+        "createdBy": "pgupta",
+        "createdAt": "2024-04-17T12:00:00Z",
+        "updatedBy": "pgupta",
+        "updatedAt": "2024-04-17T12:00:00Z"
+    },
+    {
+        "username": "Sonu",
+        "latitude": 35.6895,
+        "longitude": 139.6917,
+        "createdBy": "pgupta",
+        "createdAt": "2024-04-17T12:00:00Z",
+        "updatedBy": "pgupta",
+        "updatedAt": "2024-04-17T12:00:00Z"
+    },
+    {
+        "username": "Simran",
+        "latitude": -33.8688,
+        "longitude": 151.2093,
+        "createdBy": "pgupta",
+        "createdAt": "2024-04-17T12:00:00Z",
+        "updatedBy": "pgupta",
+        "updatedAt": "2024-04-17T12:00:00Z"
+    },
+    {
+        "username": "Shweta",
+        "latitude": 40.4168,
+        "longitude": -3.7038,
+        "createdBy": "pgupta",
+        "createdAt": "2024-04-17T12:00:00Z",
+        "updatedBy": "pgupta",
+        "updatedAt": "2024-04-17T12:00:00Z"
+    },
+    {
+        "username": "Nikita",
+        "latitude": -22.9068,
+        "longitude": -43.1729,
+        "createdBy": "pgupta",
+        "createdAt": "2024-04-17T12:00:00Z",
+        "updatedBy": "pgupta",
+        "updatedAt": "2024-04-17T12:00:00Z"
+    },
+    {
+        "username": "Neha",
+        "latitude": 51.1657,
+        "longitude": 10.4515,
+        "createdBy": "pgupta",
+        "createdAt": "2024-04-17T12:00:00Z",
+        "updatedBy": "pgupta",
+        "updatedAt": "2024-04-17T12:00:00Z"
+    },
+    {
+        "username": "Ankita",
+        "latitude": 55.7558,
+        "longitude": 37.6176,
+        "createdBy": "pgupta",
+        "createdAt": "2024-04-17T12:00:00Z",
+        "updatedBy": "pgupta",
+        "updatedAt": "2024-04-17T12:00:00Z"
+    }
+]
